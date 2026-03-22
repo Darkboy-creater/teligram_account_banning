@@ -24,6 +24,15 @@ ls
 cd teligram_account_banning
 
 
+
+
+pip install requests
+
+
+
+pip install netifaces
+
+
 ls
 
 python teligram_account_banning.py
